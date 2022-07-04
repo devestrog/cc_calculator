@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sp_age">
+        <item>0 лет</item>
+        <item>1 год</item>
+        <item>2 года</item>
+        <item>3 года</item>
+		<item>4 года</item>
+        <item>5 лет</item>
+        <item>6 лет</item>
+        <item>7 лет</item>
+		<item>8 лет</item>
+        <item>9 лет</item>
+        <item>10 лет</item>
+        <item>11+ лет</item>
+    </string-array>
+	
+	<string-array name="sp_engine">
+		<item>Бензин/газ</item>
+		<item>Дизель</item>
+		<item>Гибрид</item>
+		<item>Электро</item>
+	</string-array>
+</resources>
